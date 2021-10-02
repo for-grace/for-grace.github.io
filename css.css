@@ -2,7 +2,9 @@ body {
 
   color: #ededed;
   font-family: monospace;
-  
+  display: table-cell;
+  verticle-align: middle;
+  height: 100%;
   
   margin-left: auto;
   margin-right: auto;
@@ -16,6 +18,8 @@ body {
 html {
   background: radial-gradient(circle, Red);
   background-size: 8px 8px;
-
+  display: table;
+  margin: auto;
+  height: 100%;
 
 }
