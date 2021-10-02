@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8"/>
-    <title>TEST PAGE</title>
+    <title>For Grace :D</title>
   </head>
   <body>
     <h1 id="changingtext">Happy birthday Grace!</h1>
